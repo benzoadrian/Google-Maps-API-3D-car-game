@@ -19,7 +19,7 @@ import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader.js';
 
 
 const apiOptions = {
-  apiKey: "AIzaSyCViqMybum1d7N2ATpoqtP1usGrZFUA8z8",
+  apiKey: "Your key here",
   version: "beta"
 };
 
